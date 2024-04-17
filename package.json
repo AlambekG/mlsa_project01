@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://AlambekG.github.io/mlsa_project01",
+  "homepage": "https://AlambekG.github.io/mlsa_project01/",
   "scripts": {
     "start": "parcel",
     "dev": "react-scripts start",
