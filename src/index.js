@@ -5,8 +5,8 @@ import { Routes, Route } from 'react-router-dom';
 
 
 import App from "./App";
-import Login from "./loginPage/Login"
-import HomePage from "./loginPage/HomePage"
+import Login from "./Components/loginPage/Login"
+import HomePage from "./Components/loginPage/HomePage"
 
 const root = ReactDOM.createRoot(document.getElementById('app'));
 root.render(

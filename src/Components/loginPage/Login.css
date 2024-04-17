@@ -3,7 +3,9 @@
   display: table;
   width: 100%;
   height: 100vh;
+  background-color: rgb(33, 72, 192);
 }
+
 .login-container{
   /* display: grid; */
   justify-content: center;

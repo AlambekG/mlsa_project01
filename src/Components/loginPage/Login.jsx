@@ -2,6 +2,11 @@ import './Login.css';
 import { useNavigate } from "react-router-dom";
 import { useRef, useState } from 'react';
 
+import remove from "../../images/loginImg/remove.png";
+import user from "../../images/loginImg/user.png";
+import lock from "../../images/loginImg/lock.png";
+
+
 function Login() {
   const navigate = useNavigate();
   const popUp = useRef('null');
@@ -43,15 +48,15 @@ function Login() {
 
       <div className='login-container'>
         <form className='login-form' onSubmit={handleSubmit}>
-          <img src="../images/loginImg/remove.png" className='cart'/>
+          <img src={remove} className='cart'/>
           <div className='input_field'>
-            <img src="../images/loginImg/user.png" className='user' />
+            <img src={user} className='user' />
             <input type="text" name="username" placeholder='username' onChange={(e) => handleChange(e, 1)}/>
           </div>
           <p className={`alertMessage ${visOne}`}>Wrong combination!</p>
 
           <div className='input_field'>
-            <img src="../images/loginImg/lock.png" className='lock' />
+            <img src={lock} className='lock' />
             <input type="password" name="password" placeholder='password' onChange={(e) => handleChange(e, 2)}/>
           </div>
           <p className={`alertMessage ${visTwo}`}>Wrong combination!</p>
