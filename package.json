@@ -8,7 +8,7 @@
     "start": "parcel",
     "dev": "react-scripts start",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://AlambekG.github.io/mlsa_project01'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
