@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "As a senior student in Computer Science at Ulsan National Institute of Science and Technology (UNIST), I have a passion for learning and applying new technologies to solve real-world problems. I have a strong foundation in algorithms, data structures, and programming languages, such as C++ and Python, thanks to my experience as a competitive programming olympiad student and a teaching assistant for AI and advanced programming courses at UNIST.";
+  "Hi there! I'm a graduate of the Ulsan National Institute of Science and Technology (UNIST), where my journey in computer science solidified my foundation in algorithms, data structures, and programming languages. Driven by a curiosity for the ever-evolving tech landscape, I am dedicated to continuous learning and eager to tackle new challenges. I'm seeking opportunities that will allow me to leverage my technical skills and leadership capabilities to make impactful contributions. I'm motivated by the prospect of innovation, excellence, and creating solutions that matter.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

@@ -25,9 +25,9 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Alambek Gulamidinov",
-  title: "Software Engineer & Student",
+  title: "Software Engineer",
   email: "alan.gulamidinov@gmail.com",
-  gitHub: "github.com/Heox1",
+  gitHub: "github.com/AlambekG",
   instagram: "",
   linkedIn: "linkedin.com/in/nerond/",
   medium: "",
