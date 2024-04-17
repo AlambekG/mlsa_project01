@@ -33708,9 +33708,9 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Alambek Gulamidinov",
-    title: "Software Engineer & Student",
+    title: "Software Engineer",
     email: "alan.gulamidinov@gmail.com",
-    gitHub: "github.com/Heox1",
+    gitHub: "github.com/AlambekG",
     instagram: "",
     linkedIn: "linkedin.com/in/nerond/",
     medium: "",
@@ -33802,7 +33802,7 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "As a senior student in Computer Science at Ulsan National Institute of Science and Technology (UNIST), I have a passion for learning and applying new technologies to solve real-world problems. I have a strong foundation in algorithms, data structures, and programming languages, such as C++ and Python, thanks to my experience as a competitive programming olympiad student and a teaching assistant for AI and advanced programming courses at UNIST.";
+ */ const description = "Hi there! I'm a graduate of the Ulsan National Institute of Science and Technology (UNIST), where my journey in computer science solidified my foundation in algorithms, data structures, and programming languages. Driven by a curiosity for the ever-evolving tech landscape, I am dedicated to continuous learning and eager to tackle new challenges. I'm seeking opportunities that will allow me to leverage my technical skills and leadership capabilities to make impactful contributions. I'm motivated by the prospect of innovation, excellence, and creating solutions that matter.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -35222,7 +35222,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _womanWithTabletJpgDefault.default),
+                src: "",
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -35305,7 +35305,7 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/woman-with-tablet.jpg":"bEltf","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/woman-with-tablet.jpg":"bEltf"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"bEltf":[function(require,module,exports) {
